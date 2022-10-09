@@ -1,0 +1,48 @@
+body {
+    color: #000;
+    font-size: 18px;
+    font-family: sans-serif, 'Verdana', Tahoma;
+    background-color: #e6b8a3;
+}
+
+h1{
+    color: #fff;
+    width: auto;
+    height: 50px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: #800080;
+    text-transform: uppercase;
+}
+
+h2, h3 {
+    width: 37%;
+    height: 50px;
+    text-align: center;
+    background-color: #800080;
+}
+
+.recipe {
+    width: 400px;
+    height: auto;
+    margin: auto 20px;
+    filter: blur(1px);
+}
+
+img {
+    width: 60%;
+    height: 650px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00ff00;
+}
+
+a:active {
+    color: #ff0000;
+}
